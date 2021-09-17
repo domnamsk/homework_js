@@ -67,3 +67,5 @@ const Basket = {
 };
 
 console.log(Basket.countBasketPrice());
+
+
